@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.pappare.co.jp/about/</loc>
+    <loc>//www.pappare.co.jp/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/categories/</loc>
+    <loc>//www.pappare.co.jp/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/</loc>
+    <loc>//www.pappare.co.jp/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/service/service2/</loc>
+    <loc>//www.pappare.co.jp/service/service2/</loc>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/service/</loc>
+    <loc>//www.pappare.co.jp/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/tags/</loc>
+    <loc>//www.pappare.co.jp/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.pappare.co.jp/service/service1/</loc>
+    <loc>//www.pappare.co.jp/service/service1/</loc>
   </url>
   
 </urlset>

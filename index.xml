@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PAPPARE</title>
-    <link>https://www.pappare.co.jp/</link>
+    <link>//www.pappare.co.jp/</link>
     <description>Recent content on PAPPARE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     
-	<atom:link href="https://www.pappare.co.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.pappare.co.jp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.pappare.co.jp/about/</link>
+      <link>//www.pappare.co.jp/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.pappare.co.jp/about/</guid>
+      <guid>//www.pappare.co.jp/about/</guid>
       <description>         社名 株式会社PAPPARE   所在地 〒169-0072 東京都新宿区大久保2-20-8 笠原コーポ 301号室   電話番号 080-5457-4608   営業時間 平日 10:00～18:00   事業内容 機械学習及び生体情報を用いたサービスの提供、教育事業   代表取締役 鈴木瑞人   資本金 200,000円    </description>
     </item>
     
     <item>
       <title>Rでの実践的なデータ解析</title>
-      <link>https://www.pappare.co.jp/service/service2/</link>
+      <link>//www.pappare.co.jp/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.pappare.co.jp/service/service2/</guid>
+      <guid>//www.pappare.co.jp/service/service2/</guid>
       <description>&lt;p&gt;R言語を用いたデータサイエンスのオンライン講座。特にデータ可視化にフォーカスしています。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>実践的機械学習勉強会</title>
-      <link>https://www.pappare.co.jp/service/service1/</link>
+      <link>//www.pappare.co.jp/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.pappare.co.jp/service/service1/</guid>
+      <guid>//www.pappare.co.jp/service/service1/</guid>
       <description>&lt;p&gt;データの可視化、データの集計、多変量解析、統計一般、ベイズ推定、機械学習、Deep Learningなどを扱っています。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
