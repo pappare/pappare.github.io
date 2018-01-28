@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pappare.github.io/about/</loc>
+    <loc>https://www.pappare.co.jp/about/</loc>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/categories/</loc>
+    <loc>https://www.pappare.co.jp/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/</loc>
+    <loc>https://www.pappare.co.jp/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/service/service2/</loc>
+    <loc>https://www.pappare.co.jp/service/service2/</loc>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/service/</loc>
+    <loc>https://www.pappare.co.jp/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/tags/</loc>
+    <loc>https://www.pappare.co.jp/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pappare.github.io/service/service1/</loc>
+    <loc>https://www.pappare.co.jp/service/service1/</loc>
   </url>
   
 </urlset>
